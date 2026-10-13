@@ -1,5 +1,9 @@
 # ⚡ Modern Next.js Full Stack Developer Portfolio
 
+## 🌐 Live Demo
+
+[View the live portfolio](https://my-portfolio-lyart-eight-31.vercel.app)
+
 A production-grade, ultra-responsive **Full Stack Developer Portfolio** built with **Next.js 14 (App Router)**, **TypeScript**, **Framer Motion**, and a custom **Cyber-Obsidian Design System**.
 
 ---
